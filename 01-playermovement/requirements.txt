@@ -1,0 +1,12 @@
+arcade==2.6.10
+attrs==21.4.0
+autopep8==1.6.0
+cffi==1.15.0
+Pillow==9.0.1
+pycodestyle==2.8.0
+pycparser==2.21
+pyglet==2.0.dev13
+pymunk==6.2.1
+pytiled-parser==2.0.1
+toml==0.10.2
+typing-extensions==4.1.1
